@@ -1,0 +1,89 @@
+﻿body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #666666;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #000000;
+	background-color: #222;
+}
+
+
+.twoColElsRtHdr #container {
+	width: 1157px;  
+	background: #222;
+	margin: 0 auto; 
+	text-align: left; 
+} 
+.twoColElsRtHdr #header {
+	background: #065F33;
+	padding: 0 10px;  
+} 
+.twoColElsRtHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+
+.twoColElsRtHdr #sidebar1 {
+	float: right;
+	width: 317px; 
+	background: #666666; 
+	height: 570px;
+}
+.twoColElsRtHdr #sidebar1 h3, .twoColElsRtHdr #sidebar1 p {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+
+
+.twoColElsRtHdr #mainContent {
+  	margin: 0 13em 0 10px; 
+} 
+.twoColElsRtHdr #footer {
+	padding: 0 10px; 
+	background:#065F33;
+} 
+.twoColElsRtHdr #footer p {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+
+.fltrt { /* this class can be used to float an element right in  page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in  page */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+.style1 {	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style2 {color: #FFFFFF}
+.style6 {
+	font-size: x-large;
+	color: #003300;
+}
+.style7 {color: #003300}
+.style3 {
+	color: #000033;
+	font-weight: bold;
+}
+a:link {
+	color: #003300;
+}
+a:visited {
+	color: #990099;
+}
+a:hover {
+	color: #009933;
+}
+

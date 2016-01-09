@@ -1,0 +1,76 @@
+﻿
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #666666;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	color: #999999;
+	background-color: #222;
+	width: auto;
+	border-color: #CCCCCC;
+}
+
+.oneColElsCtrHdr #container {
+	width: 1157px;  
+	background: #333333;
+	margin: 0 auto; 
+	text-align: left; 
+	background-color: #333333;
+}
+.oneColElsCtrHdr #header {
+	background: #065F33;
+	padding: 0 10px 0 20px;  
+	height: 150px;
+	border-color: #CCCCCC;
+} 
+.oneColElsCtrHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+}
+.oneColElsCtrHdr #mainContent {
+	padding: 0 20px; 
+	background: #333333;
+	border-color: #FFFFFF;
+}
+.oneColElsCtrHdr #footer {
+	padding: 0 10px; 
+	background:#065F33;
+} 
+.oneColElsCtrHdr #footer p {
+	margin: 0; 
+	padding: 10px 0; 
+}
+.style1 {
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style2 {color: #FFFFFF}
+
+
+.style6 {color: #000099}
+body,td,th {
+	color: #FFFFFF;
+}
+.style9 {
+	color: #000033;
+	font-weight: bold;
+}
+.style10 {
+	color: #003300;
+	font-size: x-large;
+}
+.style11 {
+	color: #003300;
+}
+a:link {
+	color: #003300;
+}
+a:visited {
+	color: #990099;
+}
+a:hover {
+	color: #009933;
+}
+.style12 {color: #333333}
+.style13 {font-size: x-large}
